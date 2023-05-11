@@ -317,4 +317,25 @@ pm uninstall -k --user 0 com.vlingo.midas
 pm uninstall -k --user 0 com.wssnps
 pm uninstall -k --user 0 com.yelp.android.samsungedge
 
-# pm uninstall -k --user 0 com.samsung.android.lool
+pm uninstall -k --user 0 com.samsung.android.lool
+
+pm uninstall -k --user 0 com.metropcs.metrozone
+pm uninstall -k --user 0 com.nuance.nmc.sihome.metropcs
+pm uninstall -k --user 0 com.sec.factory.cameralyzer
+pm uninstall -k --user 0 com.samsung.adaptivebrightnessgo
+pm uninstall -k --user 0 com.android.cameraextensions
+pm uninstall -k --user 0 com.sec.android.app.camera
+pm uninstall -k --user 0 com.google.android.apps.subscriptions.red
+pm uninstall -k --user 0 com.google.android.documentsui
+pm uninstall -k --user 0 com.sec.android.gallery3d
+pm uninstall -k --user 0 com.samsung.android.localeoverlaymanager
+pm uninstall -k --user 0 com.android.localtransport  
+pm uninstall -k --user 0 com.android.location.fused 
+pm uninstall -k --user 0 com.sec.location.nfwlocationprivacy          
+pm uninstall -k --user 0 com.samsung.android.location     
+pm uninstall -k --user 0 com.google.android.gms.location.history  
+pm uninstall -k --user 0 com.android.vending                          
+pm uninstall -k --user 0 com.google.android.syncadapters.calendar                          
+pm uninstall -k --user 0 com.google.android.syncadapters.contacts
+pm uninstall -k --user 0 com.samsung.android.providers.contacts       
+pm uninstall -k --user 0 com.samsung.android.app.contacts             
