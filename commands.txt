@@ -321,6 +321,13 @@ pm uninstall -k --user 0 com.samsung.android.lool
 
 # More blootware that was in my phone
 
+pm uninstall -k --user 0 com.android.egg
+pm uninstall -k --user 0 com.android.bookmarkprovider
+pm uninstall -k --user 0 com.samsung.android.livestickers
+ 
+pm uninstall -k --user 0 com.
+pm uninstall -k --user 0 com.
+pm uninstall -k --user 0 com.tmobile.pr.adapt
 pm uninstall -k --user 0 com.metropcs.metrozone
 pm uninstall -k --user 0 com.nuance.nmc.sihome.metropcs
 pm uninstall -k --user 0 com.sec.factory.cameralyzer
@@ -354,13 +361,13 @@ pm uninstall -k --user 0 com.google.android.nearby.halfsheet
 # Unistall the package below if you don't care if your phone may crash
 
 pm uninstall -k --user 0 com.google.android.gms
+pm uninstall -k --user 0 com.google.android.gsf
 pm uninstall -k --user 0 com.google.android.configupdater
 pm uninstall -k --user 0 com.google.android.apps.restore
 pm uninstall -k --user 0 com.google.android.apps.turbo
 pm uninstall -k --user 0 com.google.android.onetimeinitializer
 pm uninstall -k --user 0 com.google.android.partnersetup
 pm uninstall -k --user 0 com.google.android.safetycenter.resources
-pm uninstall -k --user 0 com.google.android.gsf
 pm uninstall -k --user 0 com.google.android.apps.carrier.carrierwifi
 pm uninstall -k --user 0 com.google.android.modulemetadata
 pm uninstall -k --user 0 com.google.android.feedback
