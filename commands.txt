@@ -341,7 +341,7 @@ pm uninstall -k --user 0 com.android.vending
 pm uninstall -k --user 0 com.samsung.android.providers.contacts       
 pm uninstall -k --user 0 com.samsung.android.app.contacts     
 
-# Unistall the package below if you don't care if your phone may crash
+# Unistall the packages below if you don't care if your phone may crash
 
 pm uninstall -k --user 0 com.google.android.gms
 pm uninstall -k --user 0 com.google.android.gsf
