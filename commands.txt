@@ -339,7 +339,15 @@ pm uninstall -k --user 0 com.sec.location.nfwlocationprivacy
 pm uninstall -k --user 0 com.samsung.android.location     
 pm uninstall -k --user 0 com.android.vending                     
 pm uninstall -k --user 0 com.samsung.android.providers.contacts       
-pm uninstall -k --user 0 com.samsung.android.app.contacts     
+pm uninstall -k --user 0 com.samsung.android.app.contacts   
+pm uninstall -k --user 0 com.samsung.android.themecenter
+pm uninstall -k --user 0 com.samsung.android.game.gos
+pm uninstall -k --user 0 com.google.android.syncadapters.calendar                          
+pm uninstall -k --user 0 com.google.android.syncadapters.contacts  
+pm uninstall -k --user 0 com.google.android.apps.photos
+pm uninstall -k --user 0 com.google.android.apps.dofviewer
+pm uninstall -k --user 0 com.google.android.privateshare
+
 
 # Unistall the packages below if you don't care if your phone may crash
 
@@ -370,8 +378,6 @@ pm uninstall -k --user 0 com.google.android.overlay.modules.cellbroadcastservice
 pm uninstall -k --user 0 com.google.android.overlay.modules.modulemetadata.forframework
 pm uninstall -k --user 0 com.google.android.overlay.modules.permissioncontroller
 pm uninstall -k --user 0 com.google.android.overlay.modules.permissioncontroller.forframework
-pm uninstall -k --user 0 com.google.android.syncadapters.calendar                          
-pm uninstall -k --user 0 com.google.android.syncadapters.contacts             
 pm uninstall -k --user 0 com.google.android.projection.gearhead
 pm uninstall -k --user 0 com.google.android.ext.services
 pm uninstall -k --user 0 com.google.android.setupwizard
