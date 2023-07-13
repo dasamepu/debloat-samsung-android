@@ -345,7 +345,10 @@ pm uninstall -k --user 0 com.android.vending
 pm uninstall -k --user 0 com.samsung.android.providers.contacts       
 pm uninstall -k --user 0 com.samsung.android.app.contacts   
 pm uninstall -k --user 0 com.samsung.android.location     
-pm uninstall -k --user 0 com.sec.location.nfwlocationprivacy   
+pm uninstall -k --user 0 com.sec.location.nfwlocationprivacy
+pm uninstall -k --user 0 com.google.android.apps.subscriptions.red
+pm uninstall -k --user 0 com.google.android.gms.location.history
+pm uninstall -k --user 0 com.samsung.android.game.gos
 
 # Unistall the packages below if you don't care if your phone may crash and need to be reset
 
@@ -386,8 +389,6 @@ pm uninstall -k --user 0 com.google.android.captiveportallogin
 pm uninstall -k --user 0 com.google.android.cellbroadcastservice
 pm uninstall -k --user 0 com.google.android.networkstack.permissionconfig
 pm uninstall -k --user 0 com.google.android.nearby.halfsheet
-pm uninstall -k --user 0 com.google.android.gms.location.history
-pm uninstall -k --user 0 com.google.android.apps.subscriptions.red
 pm uninstall -k --user 0 com.google.android.documentsui  
 
 # pm uninstall -k --user 0 com.google.android.packageinstaller
